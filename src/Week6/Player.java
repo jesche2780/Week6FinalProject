@@ -40,11 +40,11 @@ public class Player {
 	void incrementScore() {
 		score++;
 	}
-
+//getter set to get Score and return score
 	public int getScore() {
 		return score;
 	}
-
+// getter set to get Name and return name
 	public String getName() {
 		return name;
 	}
